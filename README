@@ -8,4 +8,4 @@ If you type the correct string, then the phase is defused and the bomb proceeds 
 
 Each bomb is a Linux binary executable file that has been compiled from a C program.
 
-using objdump Linux command I got the Assembly code of the Bomb.
+using objdump Linux command you can get the Assembly code of the Bomb.
